@@ -1,2 +1,2 @@
 # railfence-java
-Rail Fence Cipher, Java
+Encryption Application, using a Rail Fence Cipher, in Java
